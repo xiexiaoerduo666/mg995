@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"MG995.obj" 
+TO "MG995" 
+RAMSIZE(256) 
